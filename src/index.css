@@ -41,6 +41,12 @@
   gap:5rem;
   text-transform: capitalize;
 }
+
+@media (max-width:768px) {
+  .nav-links{
+    display:none;
+  }
+}
 /* hero section */
 
 .hero-section{
