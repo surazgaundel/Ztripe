@@ -1,7 +1,7 @@
 
 
 # Ztripe
-Ztripe is clone version of stripe payment with submenu features on navigation bar.
+Ztripe is clone version of stripe payment with submenu features on navigation bar using context api.
 
 ## Installation
 
